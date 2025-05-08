@@ -1,2 +1,2 @@
 # UTA-LD
-All source code will be made publicly available within 1-2 week after the submission is accepted.
+All source code will be made publicly available within 1-2 weeks after the submission is accepted.
